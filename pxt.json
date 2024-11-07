@@ -1,0 +1,16 @@
+{
+    "name": "pxt-exemplos-com-arrays",
+    "version": "0.0.0",
+    "files": [
+        "images.g.jres",
+        "images.g.ts",
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "testDependencies": {}
+}
